@@ -270,15 +270,16 @@ template{
 }
 /*# sourceMappingURL=normalize.min.css.map */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+* {
+    box-sizing: border-box;
+}
+
 
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
 }
 
-* {
-    box-sizing: border-box;
-}
 
 :root {
     --color-primary: #d73953;
