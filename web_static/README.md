@@ -1,1 +1,0 @@
-Hbnb web static
